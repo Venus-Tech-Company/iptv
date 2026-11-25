@@ -62,3 +62,8 @@ https://archive.org/download/xd-milo-murphy/Milo%20Murphy%27s%20Law-S1E20-360P.m
 
 #EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E21 - Episode 21
 https://archive.org/download/xd-milo-murphy/Milo%20Murphy%27s%20Law-S1E21-360P.mp4
+
+#EXTINF:-1 group-title="XD - Live Sports",Al-Jazira vs Gol Gohar FC
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://liveplay1.camel4.live/live/sd-6Mxj4TBjdf1YY9W8r3.m3u8?txSecret=0a23f67e6734fda2a9f570655675ede6&txTime=6B071A30&lat=9000&auth=acc8d1535e8ff89b257f0d2bb47a6b98
