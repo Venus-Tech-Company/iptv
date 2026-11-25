@@ -1,0 +1,70 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E01 - Milo Murphy's Law
+https://archive.org/download/xd-milo-murphy/Milo%20Murphy%27s%20Law-S1E1-360P%20%281%29.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E02 - The Undergrounders
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E02.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E03 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E03.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E04 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E04.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E05 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E05.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E06 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E06.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E07 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E07.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E08 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E08.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E09 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E09.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E10 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E10.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E11 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E11.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E12 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E12.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E13 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E13.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E14 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E14.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E15 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E15.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E16 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E16.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E17 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E17.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E18 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E18.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E19 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E19.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E20 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E20.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E21 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E21.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E22 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E22.mp4
+
+#EXTINF:-1 group-title="XD - Milo Murphy's Law",S01E23 - Rooting for the Enemy
+https://archive.org/download/YOUR_ITEM_ID/Milo_S01E23.mp4
